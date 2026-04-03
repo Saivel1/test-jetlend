@@ -11,7 +11,7 @@ Django-проект для импорта рассылок из XLSX-файла 
 
 ## Установка
 ```bash
-git clone <repo>
+git clone https://github.com/Saivel1/test-jetlend
 cd mailer
 uv sync
 ```
